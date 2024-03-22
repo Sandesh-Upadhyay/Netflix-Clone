@@ -1,4 +1,4 @@
-# Project_1 - Netflix Clone
+# Netflix Clone
 
 **This project is a Netflix clone built using HTML and CSS. It aims to replicate the user interface and basic functionality of the popular streaming platform, allowing users to browse through a selection of movies and TV shows.**
 
